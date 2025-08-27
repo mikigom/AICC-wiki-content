@@ -2,7 +2,7 @@
 title: FQAs
 description: 
 published: true
-date: 2025-08-27T02:32:51.534Z
+date: 2025-08-27T02:35:57.750Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-27T02:32:51.534Z
@@ -76,7 +76,7 @@ Use this as a quick guide. Adapt wording to the customer, confirm facts first, a
 
 **What to verify**
 
-* Customer identity, recent sessions, last 4 digits on file.
+* Customer identity, contact.
 
 **First response (example)**
 
@@ -92,27 +92,22 @@ Use this as a quick guide. Adapt wording to the customer, confirm facts first, a
 
 **Policy**
 
-* Reissue required. **Deposit: KRW 30,000.**
-* If the previously lost card is later found and **returned**, the **deposit is refunded**.
+* Reissue of the new card required. **Deposit: KRW 30,000.**
+* For the previous membership card, the deposit fee is not refuned. If the previously lost card is later found and **returned**, the **deposit is refunded**.
 
 **What to verify**
 
-* Membership ID, holder name, contact, last use time/place.
+* Holder name, contact.
 
 **First response (example)**
 
-* “I can reissue your membership card today. There’s a KRW 30,000 deposit; if you find and return the old card later, we’ll refund that deposit.”
+* “I can reissue your membership card today. There’s a KRW 30,000 deposit; if you find and return the old card later, we’ll refund that deposit for the old card.”
 
 **Actions**
 
 * Mark old card **lost/blocked** immediately to prevent misuse.
 * Collect deposit and issue a **new card ID**; update CRM/account.
 * Provide pickup/shipping option and estimated availability; confirm the refund path if the old card is returned.
-
-**Related**
-
-* 01\_charging\_membership.md
-* Card handling SOP
 
 ---
 
