@@ -2,7 +2,7 @@
 title: FQAs
 description: 
 published: true
-date: 2025-08-27T02:35:57.750Z
+date: 2025-08-27T02:36:13.161Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-27T02:32:51.534Z
@@ -34,10 +34,6 @@ Use this as a quick guide. Adapt wording to the customer, confirm facts first, a
 * If **commercial**: proceed with membership enrollment steps.
 * If **private**: explain pay-as-you-go (non-member) flow; show where to view rates; confirm supported payment methods; offer to set a guest profile for receipts.
 * Note any edge cases (e.g., ride-hail with commercial license → eligible).
-
-**Related**
-
-* 01\_charging\_membership.md
 
 ---
 
