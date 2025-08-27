@@ -2,7 +2,7 @@
 title: BatterySwappingService
 description: 
 published: true
-date: 2025-08-27T01:41:28.844Z
+date: 2025-08-27T01:48:52.792Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-27T01:38:16.331Z
