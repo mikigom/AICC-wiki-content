@@ -2,7 +2,7 @@
 title: FQAs
 description: 
 published: true
-date: 2025-09-12T05:09:42.519Z
+date: 2025-09-12T05:10:18.121Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-29T08:11:39.457Z
@@ -121,17 +121,9 @@ dateCreated: 2025-08-29T08:11:39.457Z
 * Use **regenerative braking** to recover energy; this can increase the **estimated remaining range**.
 * Check **tire pressure**, enable **ECO modes**, and moderate **HVAC** usage.
 
-**Actions**
-* Review recent trip conditions (speed, elevation, temperature) with the customer and provide tailored advice.
 
 ## “I canceled the payment — why isn’t my refund immediate?”
 
 **Explanation**
 
 * After a sales reversal, the **card-issuer settlement process** typically takes **2–3 days** before the refund appears on the statement or balance.
-
-**Actions**
-
-* Confirm the cancellation in the ledger and note the **cancellation/approval code**.
-* Share the reference with the customer and set expectations for the **2–3 day** processing window.
-* If delayed beyond that, assist the customer in contacting the issuer with the reference details.
