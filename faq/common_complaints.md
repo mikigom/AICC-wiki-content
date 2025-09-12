@@ -2,7 +2,7 @@
 title: CommonComplaints
 description: 
 published: true
-date: 2025-09-12T07:47:43.516Z
+date: 2025-09-12T07:49:36.063Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-29T08:11:38.253Z
@@ -15,9 +15,8 @@ Use this as an internal quick-reference when handling complaints. Do not copy as
 ---
 
 # Charging/Station Availability
-* **Examples:** Charger occupied or down, long queue, access blocked
-* **Verify:** Station name/time, charger ID, availability at the moment, if possible
-* **First response:** Acknowledge inconvenience; share current status and estimated wait or recovery time
+* **Examples:** Long queue of charger
+* **First response:** Acknowledge inconvenience; share current status and estimated wait
 * **Actions:** Request to wait; Offer alternative charger or time window;
 
 # Billing/Refunds
