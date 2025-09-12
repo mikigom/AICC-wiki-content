@@ -2,7 +2,7 @@
 title: FQAs
 description: 
 published: true
-date: 2025-09-12T04:31:27.010Z
+date: 2025-09-12T04:36:11.499Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-29T08:11:39.457Z
@@ -10,11 +10,11 @@ dateCreated: 2025-08-29T08:11:39.457Z
 
 # Field FQA
 
-## 1) “Can a ‘regular/private’ car sign up or charge here?”
+## 1) "Can a 'regular/private' car sign up or charge here?"
 
 **Clarify intent**
 
-* Confirm whether “regular car” means a **non-commercial/private vehicle** (not a taxi, truck, fleet vehicle).
+* Confirm whether "regular car" means a **non-commercial/private vehicle** (not a taxi, truck, or fleet vehicle).
 
 **What to verify**
 
@@ -23,13 +23,12 @@ dateCreated: 2025-08-29T08:11:39.457Z
 
 **First response (example)**
 
-* “You’re welcome to charge here. Our **membership** is for **commercially licensed vehicles** (taxis, trucks, fleets). **Private vehicles** can still use the stations as **non-members** at the standard public rate.”
+* "You're welcome to charge here. Our **membership** is for **commercially licensed vehicles** (taxis, trucks, fleets). **Private vehicles** can still use the stations as **non-members** at the standard public rate. For private use, you can pay with a **personal credit or debit card**."
 
 **Actions**
 
 * If **commercial**: proceed with membership enrollment steps.
-* If **private**: explain pay-as-you-go (non-member) flow; show where to view rates; confirm supported payment methods; offer to set a guest profile for receipts.
-* Note any edge cases (e.g., ride-hail with commercial license → eligible).
+* If **private**: explain pay-as-you-go (non-member) flow; show where to view rates; confirm supported payment methods (including **personal credit/debit cards**);
 
 ---
 
