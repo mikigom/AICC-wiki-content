@@ -2,7 +2,7 @@
 title: CommonComplaints
 description: 
 published: true
-date: 2025-09-12T07:42:33.624Z
+date: 2025-09-12T07:45:26.012Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-29T08:11:38.253Z
@@ -28,8 +28,8 @@ Use this as an internal quick-reference when handling complaints. Do not copy as
 
 # Equipment/Service Quality
 * **Examples:** Charger error, car wash malfunction, unstable session
-* **Verify:** Device/charger ID, error code/message, occurrence time/frequency, photos/video
-* **First response:** Provide basic troubleshooting steps; arrange on-site/remote check
+* **Verify:** Device/charger name/ID, error code/message, occurrence time/frequency, photos/video
+* **First response:** Request for contacting staff; arrange on-site/remote check
 * **Actions:** Schedule repair/replacement; offer alternative service where possible
 
 # Staff/Store Experience
