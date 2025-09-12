@@ -2,10 +2,10 @@
 title: Company Overview
 description: 
 published: true
-date: 2025-08-27T01:46:22.088Z
+date: 2025-09-12T01:38:36.212Z
 tags: 
 editor: markdown
-dateCreated: 2025-08-27T01:28:56.906Z
+dateCreated: 2025-08-29T08:11:37.030Z
 ---
 
 # Company Overview
@@ -16,4 +16,4 @@ dateCreated: 2025-08-27T01:28:56.906Z
 
 ## General Inquiries
 
-- Weekdays 9:00 AM – 6:00 PM (KST). Please call 070-8877-0701.
+- Weekdays 9:00 AM – 5:00 PM (KST). Please call 070-8877-0701.
