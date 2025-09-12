@@ -2,7 +2,7 @@
 title: CommonComplaints
 description: 
 published: true
-date: 2025-09-12T07:45:36.006Z
+date: 2025-09-12T07:47:40.957Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-29T08:11:38.253Z
@@ -22,10 +22,9 @@ Use this as an internal quick-reference when handling complaints. Do not copy as
 
 # Billing/Refunds
 * **Examples:** Overcharge, duplicate charge, statement mismatch, refund delay
-* **Verify:** Billing period, amount, payment method, receipts/invoices
-* **First response:** Confirm we are reviewing the ledger for the period; provide an expected resolution timeline
-* **Actions:** File a correction; initiate refund if confirmed; follow up until funds are posted
-
+* **Verify:** Billing period, amount, payment method
+* **First response:** Confirm we are reviewing the ledger for the period.
+* **Actions:** File a correction; initiate refund if confirmed;
 # Equipment/Service Quality
 * **Examples:** Charger error, car wash malfunction, unstable session
 * **Verify:** Device/charger name/ID, error code/message, occurrence time/frequency, photos/video
