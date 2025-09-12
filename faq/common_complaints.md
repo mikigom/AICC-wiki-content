@@ -2,7 +2,7 @@
 title: CommonComplaints
 description: 
 published: true
-date: 2025-09-12T07:47:40.957Z
+date: 2025-09-12T07:47:43.516Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-29T08:11:38.253Z
@@ -25,6 +25,7 @@ Use this as an internal quick-reference when handling complaints. Do not copy as
 * **Verify:** Billing period, amount, payment method
 * **First response:** Confirm we are reviewing the ledger for the period.
 * **Actions:** File a correction; initiate refund if confirmed;
+
 # Equipment/Service Quality
 * **Examples:** Charger error, car wash malfunction, unstable session
 * **Verify:** Device/charger name/ID, error code/message, occurrence time/frequency, photos/video
