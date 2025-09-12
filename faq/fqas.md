@@ -2,7 +2,7 @@
 title: FQAs
 description: 
 published: true
-date: 2025-09-12T01:42:26.030Z
+date: 2025-09-12T02:25:44.818Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-29T08:11:39.457Z
@@ -71,16 +71,16 @@ dateCreated: 2025-08-29T08:11:39.457Z
 
 **Actions**
 
-* Temporarily disable/unlink the old card from the account.
 * Verify ID and **add the replacement card** when available.
-* Confirm no unauthorized sessions after the reported loss; escalate any disputes to billing review.
 
 ### B) Lost **membership card**
 
 **Policy**
 
-* Reissue of the new card required. **Deposit: KRW 30,000.**
-* For the previous membership card, the deposit fee is not refuned. If the previously lost card is later found and **returned**, the **deposit is refunded**.
+* Reissue of a new card required.
+* **Deposit / reissue fee:** **KRW 30,000 (standard).**
+  * If there is **temporary-card stock from former (withdrawn) members**, issue at **KRW 20,000**. **Staff must manually confirm current stock availability.**
+* For the previous membership card, the deposit is not refunded. If the previously lost card is later found and **returned**, the **deposit is refunded**.
 
 **What to verify**
 
@@ -88,17 +88,11 @@ dateCreated: 2025-08-29T08:11:39.457Z
 
 **First response (example)**
 
-* “I can reissue your membership card today. There’s a KRW 30,000 deposit; if you find and return the old card later, we’ll refund that deposit for the old card.”
+* “I can reissue your membership card right now. The deposit is KRW 30,000—or KRW 20,000 if we have temporary-card stock available (staff will check it out). If you find and return the missing old card later, we’ll refund that deposit for the old card.”
 
 **Actions**
 
 * Mark old card **lost/blocked** immediately to prevent misuse.
-* Collect deposit and issue a **new card ID**; update CRM/account.
-* Provide pickup/shipping option and estimated availability; confirm the refund path if the old card is returned.
-
----
-
-## Standard opening/closing (use sparingly)
-
-* **Opening:** “I’m sorry for the trouble. Let me confirm a few details so I can fix this quickly.”
-* **Closing after save:** “I’ve updated your case and shared it with our team. We’ll follow up once everything is confirmed/complete.”
+* **Check temporary-card stock** (from former members):
+  * If available, apply **KRW 20,000**; otherwise **KRW 30,000**.
+* Collect the deposit and issue a **new card ID**; update CRM/account.
