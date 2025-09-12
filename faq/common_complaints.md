@@ -2,7 +2,7 @@
 title: CommonComplaints
 description: 
 published: true
-date: 2025-09-12T05:47:13.117Z
+date: 2025-09-12T05:48:40.109Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-29T08:11:38.253Z
@@ -96,7 +96,7 @@ Use this as an internal quick-reference when handling complaints. Do not copy as
 ## Quick Resolution Steps
 1. **Confirm authorization status first.**
    **Customer-facing guidance:** “Please first check whether your registered payment card was declined; if there’s no transaction record, please speak with a staff member.”
-2. **If a membership card won’t read:**
+2. **If the payment card status is normal but a membership card won’t read:**
    Please contact a staff member.
 
 ## Support & Handoff
