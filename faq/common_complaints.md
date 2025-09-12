@@ -2,10 +2,10 @@
 title: CommonComplaints
 description: 
 published: true
-date: 2025-08-27T02:22:29.369Z
+date: 2025-09-12T05:46:11.245Z
 tags: 
 editor: markdown
-dateCreated: 2025-08-27T02:21:50.878Z
+dateCreated: 2025-08-29T08:11:38.253Z
 ---
 
 # Common Customer Complaints
@@ -83,13 +83,31 @@ Use this as an internal quick-reference when handling complaints. Do not copy as
 * **Verify:** Charger ID, connector type, session status (active/ended), on-screen or app error codes, time of issue
 * **Actions:** If unresolved, dispatch staff; instruct customer to remain with the vehicle; do not force or use tools that could damage the port
 
-## Card Payment Failing (POS/Terminal)
+# Card Payment Failing (POS/Terminal)
 
-* **Examples:** Tap/insert/swipe not working; repeated decline without clear reason
-* **Verify:** Station/terminal ID, time, card type/network, error message;
-* **First response:** Apologize; suggest immediate alternatives (app payment, QR, cashless wallet) and offer staff assistance or live phone support
-* **Actions:** Guide customer to on-site staff for manual processing if allowed; provide phone support line for assisted payment; log terminal error and escalate to payments team; advise customer to check with issuer if decline persists
+* **Examples:** Tap/insert/swipe not working; repeated declines with no clear reason.
+* **Verify:** Station/terminal ID, time, name.
+* **First response:** Apologize; offer immediate staff assistance or live phone support.
 
+## Common Causes (call these out explicitly)
+
+* **Payment authorization decline on the registered payment card** (most frequent).
+* **Damaged magnetic stripe on the membership card** causing the terminal to fail to read the member ID.
+
+## Quick Resolution Steps
+1. **Confirm authorization status first.**
+   **Customer-facing guidance:** “Please first check whether your registered payment card was declined; if there’s no transaction record, please speak with a staff member.”
+2. **If a membership card won’t read:**
+   Please contact a staff member.
+
+## Support & Handoff
+
+* If the card shows **declined** or the **membership card is physically damaged**, assist the customer with:
+  * Notify the issue and payment card replacement
+  * Reissuing the membership card or completing a manual lookup.
+* If no authorization record exists and the issue persists, connect the customer to **staff** or **live phone support** and provide the captured details.
+
+  
 ---
 
 ## Standard Opening/Closing (Use Sparingly)
