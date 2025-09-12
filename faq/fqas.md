@@ -2,7 +2,7 @@
 title: FQAs
 description: 
 published: true
-date: 2025-09-12T02:25:44.818Z
+date: 2025-09-12T04:31:27.010Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-29T08:11:39.457Z
@@ -33,23 +33,21 @@ dateCreated: 2025-08-29T08:11:39.457Z
 
 ---
 
-## 2) Post-issuance of invoices/receipts
+## 2) Post-issuance of 신용카드매출전표 (Credit Card Sales Slip)
 
 **What to verify**
 
-* Charging session details: date/time, station/site, charger ID/session ID, amount, last 4 digits of payment card, payer name/email.
-* For corporate tax invoices: legal entity name, business reg./tax ID, billing email.
+* Charging session details: date/time, station/site, payer name/email.
 
 **First response (example)**
 
-* “I can help with a receipt/invoice. I’ll locate the transaction in our ledger and issue it to your email. Let me confirm the session details first.”
+* “I can help with a 신용카드매출전표 (credit card sales slip). I’ll locate the transaction and confirm the session details. You can obtain the slip via your card issuer as card usage history (카드 사용 내역), or I can issue one from our office after verification.”
 
 **Actions**
 
 * Locate the transaction in the ledger and confirm payer ownership.
-* Generate and send **digital receipt** or **tax invoice** (PDF/email or SMS link).
-* If paid via third-party wallet, advise they may also retrieve a receipt there; still provide our session confirmation.
-* Share an **expected delivery timeframe** and follow up once sent.
+* Provide issuance paths: Upon verification, **issue from our office** and send as a PDF via email (or share an SMS link).
+* Share an expected delivery timeframe (about 1 hour).
 
 ---
 
