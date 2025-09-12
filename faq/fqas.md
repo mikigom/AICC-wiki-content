@@ -2,7 +2,7 @@
 title: FQAs
 description: 
 published: true
-date: 2025-09-12T04:36:36.179Z
+date: 2025-09-12T05:00:37.765Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-29T08:11:39.457Z
@@ -10,7 +10,7 @@ dateCreated: 2025-08-29T08:11:39.457Z
 
 # Field FQA
 
-## 1) "Can a 'regular/private' car sign up or charge here?"
+## "Can a 'regular/private' car sign up or charge here?"
 
 **Clarify intent**
 
@@ -32,7 +32,7 @@ dateCreated: 2025-08-29T08:11:39.457Z
 
 ---
 
-## 2) Post-issuance of 신용카드매출전표 (Credit Card Sales Slip)
+## Post-issuance of 신용카드매출전표 (Credit Card Sales Slip)
 
 **What to verify**
 
@@ -50,7 +50,7 @@ dateCreated: 2025-08-29T08:11:39.457Z
 
 ---
 
-## 3) Lost card — payment card vs. membership card
+## Lost card — payment card vs. membership card
 
 **Clarify intent**
 
@@ -93,3 +93,20 @@ dateCreated: 2025-08-29T08:11:39.457Z
 * **Check temporary-card stock** (from former members):
   * If available, apply **KRW 20,000**; otherwise **KRW 30,000**.
 * Collect the deposit and issue a **new card ID**; update CRM/account.
+
+## “Charging feels too slow—why is it taking so long?” *(Revised)*
+
+**What to explain**
+
+* **Typical power in the SOC 20–80% range:**
+  * **Lower-voltage vehicles** (e.g., Niro, Bongo): **\~70 kW** is common.
+  * **Higher-voltage vehicles** (e.g., IONIQ 5, EV6): **\~100 kW** is typical.
+* **Real-world speed varies** with:
+  * **Battery state** *(voltage, temperature, SOC)*.
+  * **Ambient temperature:** In cold weather, battery efficiency drops because electrolyte ion mobility decreases; this can **reduce charging speed**.
+  * **Power sharing:** If another vehicle is charging on the same power module/cabinet, available power may be **divided**, slowing your session.
+* **Taper above \~80% SOC:** Most EVs **intentionally reduce charging power** past \~80% to avoid overcharge and mitigate fire-risk—this is normal protective behavior.
+
+**First response (example)**
+
+* “Charging speed can vary by vehicle and conditions. In the **20–80% SOC** window, lower-voltage models like **Niro/Bongo** typically see around **70 kW**, while higher-voltage models like **IONIQ 5/EV6** often reach **\~100 kW**. Actual speed depends on battery voltage/temperature/SOC, **cold weather** can slow things due to lower electrolyte mobility, and **power may be shared** if another car is charging on the same charger. Also, once **SOC exceeds \~80%**, most vehicles **intentionally taper** charging to protect the battery.”
