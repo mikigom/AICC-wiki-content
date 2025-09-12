@@ -2,17 +2,13 @@
 title: FQAs
 description: 
 published: true
-date: 2025-08-27T02:36:13.161Z
+date: 2025-09-12T01:42:26.030Z
 tags: 
 editor: markdown
-dateCreated: 2025-08-27T02:32:51.534Z
+dateCreated: 2025-08-29T08:11:39.457Z
 ---
 
-# Field FQA (Internal) — Membership, Billing & Cards
-
-Use this as a quick guide. Adapt wording to the customer, confirm facts first, and log outcomes.
-
----
+# Field FQA
 
 ## 1) “Can a ‘regular/private’ car sign up or charge here?”
 
@@ -54,11 +50,6 @@ Use this as a quick guide. Adapt wording to the customer, confirm facts first, a
 * Generate and send **digital receipt** or **tax invoice** (PDF/email or SMS link).
 * If paid via third-party wallet, advise they may also retrieve a receipt there; still provide our session confirmation.
 * Share an **expected delivery timeframe** and follow up once sent.
-
-**Related**
-
-* 01\_charging\_membership.md
-* Billing SOP
 
 ---
 
