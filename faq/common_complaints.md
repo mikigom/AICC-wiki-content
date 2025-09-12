@@ -2,7 +2,7 @@
 title: CommonComplaints
 description: 
 published: true
-date: 2025-09-12T05:46:11.245Z
+date: 2025-09-12T05:47:13.117Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-29T08:11:38.253Z
@@ -87,7 +87,6 @@ Use this as an internal quick-reference when handling complaints. Do not copy as
 
 * **Examples:** Tap/insert/swipe not working; repeated declines with no clear reason.
 * **Verify:** Station/terminal ID, time, name.
-* **First response:** Apologize; offer immediate staff assistance or live phone support.
 
 ## Common Causes (call these out explicitly)
 
@@ -106,7 +105,6 @@ Use this as an internal quick-reference when handling complaints. Do not copy as
   * Notify the issue and payment card replacement
   * Reissuing the membership card or completing a manual lookup.
 * If no authorization record exists and the issue persists, connect the customer to **staff** or **live phone support** and provide the captured details.
-
   
 ---
 
