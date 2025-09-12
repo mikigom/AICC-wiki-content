@@ -2,7 +2,7 @@
 title: CommonComplaints
 description: 
 published: true
-date: 2025-09-12T05:48:40.109Z
+date: 2025-09-12T05:50:38.639Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-29T08:11:38.253Z
@@ -102,7 +102,7 @@ Use this as an internal quick-reference when handling complaints. Do not copy as
 ## Support & Handoff
 
 * If the card shows **declined** or the **membership card is physically damaged**, assist the customer with:
-  * Notify the issue and payment card replacement
+  * Notify the issue and payment card update
   * Reissuing the membership card or completing a manual lookup.
 * If no authorization record exists and the issue persists, connect the customer to **staff** or **live phone support** and provide the captured details.
   
