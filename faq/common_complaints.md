@@ -2,7 +2,7 @@
 title: CommonComplaints
 description: 
 published: true
-date: 2025-09-12T05:50:38.639Z
+date: 2025-09-12T07:19:07.510Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-29T08:11:38.253Z
@@ -66,16 +66,16 @@ Use this as an internal quick-reference when handling complaints. Do not copy as
 ## Restroom Supplies/Location
 
 * **Examples:** No soap, confusion about restroom location or gender-specific facilities
-* **Verify:** Restroom location, men’s/women’s designation, fixture type (dispenser brand if known)
-* **First response:** Apologize; confirm restocking is underway and provide precise directions to the nearest restroom (men/women/unisex)
-* **Actions:** Notify staff to restock immediately; audit other dispensers;
+* **Verify:** Restroom location, men’s/women’s designation
+* **First response:** Apologize; confirm restocking is underway.
+* **Actions:** Notify staff to restock immediately; audit other supplies;
 
 ## Post-Charge Blocking
 
-* **Examples:** Fully charged vehicle still occupying bay; queue forming
-* **Verify:** Bay number, vehicle description/plate (if policy allows), charge session status and end time, idle-fee policy at location
+* **Examples:** Fully charged vehicle still occupying charger; queue forming because of blocking
+* **Verify:** Charger number, charge session status and end time.
 * **First response:** Apologize for the delay; explain our idle/overstay policy and that we’re contacting the driver/on-site staff
-* **Actions:** Ping driver via app/SMS if available; notify on-site team to request move; apply idle/overstay fee per policy;
+* **Actions:** Ping driver via app/SMS if available; notify on-site team to request move;
 
 ## Connector Stuck / Plug Won’t Disconnect
 
