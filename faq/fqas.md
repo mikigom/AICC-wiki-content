@@ -2,7 +2,7 @@
 title: FQAs
 description: 
 published: true
-date: 2025-09-12T05:00:37.765Z
+date: 2025-09-12T05:09:42.519Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-29T08:11:39.457Z
@@ -94,19 +94,44 @@ dateCreated: 2025-08-29T08:11:39.457Z
   * If available, apply **KRW 20,000**; otherwise **KRW 30,000**.
 * Collect the deposit and issue a **new card ID**; update CRM/account.
 
-## “Charging feels too slow—why is it taking so long?” *(Revised)*
+## Charging feels too slow — why is it taking so long?
 
-**What to explain**
+**Key facts (typical power in SOC 20–80% range)**
+* **Lower-voltage vehicles** (e.g., Niro, Bongo): **\~70 kW** typical.
+* **Higher-voltage vehicles** (e.g., IONIQ 5, EV6): **\~100 kW** typical.
 
-* **Typical power in the SOC 20–80% range:**
-  * **Lower-voltage vehicles** (e.g., Niro, Bongo): **\~70 kW** is common.
-  * **Higher-voltage vehicles** (e.g., IONIQ 5, EV6): **\~100 kW** is typical.
-* **Real-world speed varies** with:
-  * **Battery state** *(voltage, temperature, SOC)*.
-  * **Ambient temperature:** In cold weather, battery efficiency drops because electrolyte ion mobility decreases; this can **reduce charging speed**.
-  * **Power sharing:** If another vehicle is charging on the same power module/cabinet, available power may be **divided**, slowing your session.
-* **Taper above \~80% SOC:** Most EVs **intentionally reduce charging power** past \~80% to avoid overcharge and mitigate fire-risk—this is normal protective behavior.
+**Factors that reduce actual speed**
+* **Battery state:** cell/pack **voltage**, **temperature**, and **SOC**.
+* **Ambient temperature:** in **cold conditions**, electrolyte mobility drops, the BMS limits current, and charging power decreases.
+* **Power sharing:** simultaneous charging on shared hardware can **divide available power**.
 
-**First response (example)**
+**When output is \~20 kW (very slow)**
+* This is often **normal at high SOC (≥80%)** due to tapering.
+  1. **Battery protection:** voltage rises sharply above \~80%; high current risks **over-voltage** and degrades battery life, so the BMS reduces current.
+  2. **Charging method (CC/CV profile):** fast **constant-current** charging typically applies up to \~80%; above that, the charger holds **constant voltage** and **reduces current**, slowing power.
+  3. **Safety & thermal management:** higher SOC increases internal heat generation; lowering current controls temperature and protects the pack.
 
-* “Charging speed can vary by vehicle and conditions. In the **20–80% SOC** window, lower-voltage models like **Niro/Bongo** typically see around **70 kW**, while higher-voltage models like **IONIQ 5/EV6** often reach **\~100 kW**. Actual speed depends on battery voltage/temperature/SOC, **cold weather** can slow things due to lower electrolyte mobility, and **power may be shared** if another car is charging on the same charger. Also, once **SOC exceeds \~80%**, most vehicles **intentionally taper** charging to protect the battery.”
+## Driving range is too short — what causes this?
+
+**Factors**
+* **Driving behavior and route:** rapid acceleration/braking, **sustained high speeds**, and frequent **climbs** increase energy use and reduce range.
+
+**Efficiency tips**
+* Use **smooth acceleration/braking** and maintain **steady speeds**.
+* Use **regenerative braking** to recover energy; this can increase the **estimated remaining range**.
+* Check **tire pressure**, enable **ECO modes**, and moderate **HVAC** usage.
+
+**Actions**
+* Review recent trip conditions (speed, elevation, temperature) with the customer and provide tailored advice.
+
+## “I canceled the payment — why isn’t my refund immediate?”
+
+**Explanation**
+
+* After a sales reversal, the **card-issuer settlement process** typically takes **2–3 days** before the refund appears on the statement or balance.
+
+**Actions**
+
+* Confirm the cancellation in the ledger and note the **cancellation/approval code**.
+* Share the reference with the customer and set expectations for the **2–3 day** processing window.
+* If delayed beyond that, assist the customer in contacting the issuer with the reference details.
