@@ -2,7 +2,7 @@
 title: FQAs
 description: 
 published: true
-date: 2025-09-12T04:36:11.499Z
+date: 2025-09-12T04:36:36.179Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-29T08:11:39.457Z
@@ -18,7 +18,7 @@ dateCreated: 2025-08-29T08:11:39.457Z
 
 **What to verify**
 
-* Vehicle use type (commercial vs. private), plate/class if applicable.
+* Vehicle use type (commercial vs. private).
 * If commercial: business registration, operator name, contact.
 
 **First response (example)**
